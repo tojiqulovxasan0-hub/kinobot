@@ -1,0 +1,641 @@
+2026-06-20 14:27:44,339 - __main__ - INFO - Ma'lumotlar bazasi ishga tushirilmoqda...
+2026-06-20 14:27:44,373 - __main__ - INFO - Ma'lumotlar bazasi tayyor!
+2026-06-20 14:27:48,522 - __main__ - INFO - Bot ishga tushirildi: @kinoolami11bot
+2026-06-20 14:27:48,523 - __main__ - INFO - Admin ID: 8590726796
+2026-06-20 14:27:49,018 - __main__ - WARNING - Admin'ga xabar yuborib bo'lmadi: Telegram server says - Bad Request: chat not found
+2026-06-20 14:27:49,018 - __main__ - INFO - Polling boshlanyapti...
+2026-06-20 14:27:49,020 - aiogram.dispatcher - INFO - Start polling
+2026-06-20 14:27:49,132 - aiogram.dispatcher - INFO - Run polling for bot @kinoolami11bot id=8964538366 - 'kinoolami'
+2026-06-20 14:28:09,304 - aiogram.event - INFO - Update id=242810971 is handled. Duration 391 ms by bot id=8964538366
+2026-06-20 14:28:24,946 - aiogram.event - INFO - Update id=242810972 is handled. Duration 390 ms by bot id=8964538366
+2026-06-20 14:29:33,014 - aiogram.dispatcher - INFO - Polling stopped
+2026-06-20 14:29:33,275 - __main__ - INFO - Bot to'xtatildi.
+2026-06-20 14:29:33,275 - aiogram.dispatcher - INFO - Polling stopped for bot @kinoolami11bot id=8964538366 - 'kinoolami'
+2026-06-20 14:29:39,840 - __main__ - INFO - Ma'lumotlar bazasi ishga tushirilmoqda...
+2026-06-20 14:29:39,844 - __main__ - INFO - Ma'lumotlar bazasi tayyor!
+2026-06-20 14:29:40,689 - __main__ - INFO - Bot ishga tushirildi: @kinoolami11bot
+2026-06-20 14:29:40,690 - __main__ - INFO - Admin ID: 8590726796
+2026-06-20 14:29:41,129 - __main__ - INFO - Polling boshlanyapti...
+2026-06-20 14:29:41,129 - aiogram.dispatcher - INFO - Start polling
+2026-06-20 14:29:41,246 - aiogram.dispatcher - INFO - Run polling for bot @kinoolami11bot id=8964538366 - 'kinoolami'
+2026-06-20 14:29:43,203 - aiogram.event - INFO - Update id=242810973 is handled. Duration 515 ms by bot id=8964538366
+2026-06-20 14:29:45,584 - aiogram.event - INFO - Update id=242810974 is handled. Duration 155 ms by bot id=8964538366
+2026-06-20 14:32:04,129 - aiogram.dispatcher - INFO - Polling stopped
+2026-06-20 14:32:04,384 - __main__ - INFO - Bot to'xtatildi.
+2026-06-20 14:32:04,385 - aiogram.dispatcher - INFO - Polling stopped for bot @kinoolami11bot id=8964538366 - 'kinoolami'
+2026-06-20 14:32:49,666 - __main__ - INFO - Ma'lumotlar bazasi ishga tushirilmoqda...
+2026-06-20 14:32:49,673 - __main__ - INFO - Ma'lumotlar bazasi tayyor!
+2026-06-20 14:32:50,669 - __main__ - INFO - Bot ishga tushirildi: @kinoolami11bot
+2026-06-20 14:32:50,669 - __main__ - INFO - Admin ID: 8590726796
+2026-06-20 14:32:51,456 - __main__ - INFO - Polling boshlanyapti...
+2026-06-20 14:32:51,457 - aiogram.dispatcher - INFO - Start polling
+2026-06-20 14:32:51,573 - aiogram.dispatcher - INFO - Run polling for bot @kinoolami11bot id=8964538366 - 'kinoolami'
+2026-06-20 14:32:57,501 - aiogram.event - INFO - Update id=242810975 is handled. Duration 375 ms by bot id=8964538366
+2026-06-20 14:32:59,456 - aiogram.event - INFO - Update id=242810976 is handled. Duration 155 ms by bot id=8964538366
+2026-06-20 14:33:02,827 - aiogram.event - INFO - Update id=242810977 is handled. Duration 217 ms by bot id=8964538366
+2026-06-20 14:37:53,687 - aiogram.event - INFO - Update id=242810978 is handled. Duration 422 ms by bot id=8964538366
+2026-06-20 14:38:02,844 - aiogram.event - INFO - Update id=242810979 is handled. Duration 172 ms by bot id=8964538366
+2026-06-20 14:38:08,632 - aiogram.event - INFO - Update id=242810980 is handled. Duration 359 ms by bot id=8964538366
+2026-06-20 14:38:16,156 - aiogram.event - INFO - Update id=242810981 is handled. Duration 170 ms by bot id=8964538366
+2026-06-20 14:38:39,885 - aiogram.event - INFO - Update id=242810982 is handled. Duration 468 ms by bot id=8964538366
+2026-06-20 14:40:42,006 - aiogram.event - INFO - Update id=242810983 is handled. Duration 625 ms by bot id=8964538366
+2026-06-20 14:41:33,089 - aiogram.event - INFO - Update id=242810984 is handled. Duration 719 ms by bot id=8964538366
+2026-06-20 14:42:02,633 - aiogram.event - INFO - Update id=242810985 is handled. Duration 562 ms by bot id=8964538366
+2026-06-20 14:42:05,109 - aiogram.event - INFO - Update id=242810986 is handled. Duration 329 ms by bot id=8964538366
+2026-06-20 14:44:10,276 - aiogram.dispatcher - INFO - Polling stopped
+2026-06-20 14:44:10,528 - __main__ - INFO - Bot to'xtatildi.
+2026-06-20 14:44:10,530 - aiogram.dispatcher - INFO - Polling stopped for bot @kinoolami11bot id=8964538366 - 'kinoolami'
+2026-06-20 14:44:34,955 - __main__ - INFO - Ma'lumotlar bazasi ishga tushirilmoqda...
+2026-06-20 14:44:34,960 - __main__ - INFO - Ma'lumotlar bazasi tayyor!
+2026-06-20 14:44:35,927 - __main__ - INFO - Bot ishga tushirildi: @kinoolami11bot
+2026-06-20 14:44:35,927 - __main__ - INFO - Admin ID: 8590726796
+2026-06-20 14:44:36,346 - __main__ - INFO - Polling boshlanyapti...
+2026-06-20 14:44:36,347 - aiogram.dispatcher - INFO - Start polling
+2026-06-20 14:44:36,459 - aiogram.dispatcher - INFO - Run polling for bot @kinoolami11bot id=8964538366 - 'kinoolami'
+2026-06-20 14:44:39,300 - aiogram.event - INFO - Update id=242810987 is handled. Duration 391 ms by bot id=8964538366
+2026-06-20 14:44:42,995 - aiogram.event - INFO - Update id=242810988 is handled. Duration 280 ms by bot id=8964538366
+2026-06-20 14:44:46,489 - aiogram.event - INFO - Update id=242810989 is handled. Duration 422 ms by bot id=8964538366
+2026-06-20 14:45:01,251 - aiogram.event - INFO - Update id=242810990 is not handled. Duration 344 ms by bot id=8964538366
+2026-06-20 14:45:01,252 - aiogram.event - ERROR - Cause exception while process update id=242810990 by bot id=8964538366
+TelegramBadRequest: Telegram server says - Bad Request: can't parse entities: Unsupported start tag "reactiontypetype.emoji:" at byte offset 267
+Traceback (most recent call last):
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 99, in check_response
+    response = response_type.model_validate(json_data, context={"bot": bot})
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pydantic\main.py", line 503, in model_validate
+    return cls.__pydantic_validator__.validate_python(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 4 validation errors for Response[ChatFullInfo]
+result.available_reactions.0.ReactionTypeEmoji.type
+  Input should be <ReactionTypeType.EMOJI: 'emoji'> [type=literal_error, input_value='paid', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/literal_error
+result.available_reactions.0.ReactionTypeEmoji.emoji
+  Field required [type=missing, input_value={'type': 'paid'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+result.available_reactions.0.ReactionTypeCustomEmoji.type
+  Input should be <ReactionTypeType.CUSTOM_EMOJI: 'custom_emoji'> [type=literal_error, input_value='paid', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/literal_error
+result.available_reactions.0.ReactionTypeCustomEmoji.custom_emoji_id
+  Field required [type=missing, input_value={'type': 'paid'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ISHONCH\OneDrive\Desktop\kinobot\handlers\admin.py", line 269, in add_channel_process
+    chat = await bot.get_chat(chat_id=channel_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\bot.py", line 1621, in get_chat
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\bot.py", line 480, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\aiohttp.py", line 178, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 101, in check_response
+    raise ClientDecodeError("Failed to deserialize object", e, json_data)
+aiogram.exceptions.ClientDecodeError: Failed to deserialize object
+Caused from error: pydantic_core._pydantic_core.ValidationError: 4 validation errors for Response[ChatFullInfo]
+result.available_reactions.0.ReactionTypeEmoji.type
+  Input should be <ReactionTypeType.EMOJI: 'emoji'> [type=literal_error, input_value='paid', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/literal_error
+result.available_reactions.0.ReactionTypeEmoji.emoji
+  Field required [type=missing, input_value={'type': 'paid'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+result.available_reactions.0.ReactionTypeCustomEmoji.type
+  Input should be <ReactionTypeType.CUSTOM_EMOJI: 'custom_emoji'> [type=literal_error, input_value='paid', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/literal_error
+result.available_reactions.0.ReactionTypeCustomEmoji.custom_emoji_id
+  Field required [type=missing, input_value={'type': 'paid'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+Content: {'ok': True, 'result': {'id': -1003861820801, 'title': 'Xasan Tojiqulov (Pentester )', 'username': 'xasantojiqulov1', 'type': 'channel', 'active_usernames': ['xasantojiqulov1'], 'description': 'Hobby Kiber xavfsizlik ( Pentester ) 🌓', 'invite_link': 'https://t.me/+zOpBwhz4AWk1ZWFi', 'can_send_gift': True, 'has_visible_history': True, 'can_send_paid_media': True, 'accepted_gift_types': {'unlimited_gifts': True, 'limited_gifts': True, 'unique_gifts': True, 'premium_subscription': True, 'gifts_from_channels': True}, 'photo': {'small_file_id': 'AQADAgADARhrGxQVUEkACAIAA386LEUW____zNldph60d448BA', 'small_file_unique_id': 'AQADARhrGxQVUEkAAQ', 'big_file_id': 'AQADAgADARhrGxQVUEkACAMAA386LEUW____zNldph60d448BA', 'big_file_unique_id': 'AQADARhrGxQVUEkB'}, 'pinned_message': {'message_id': 99, 'sender_chat': {'id': -1003861820801, 'title': 'Xasan Tojiqulov (Pentester )', 'username': 'xasantojiqulov1', 'type': 'channel'}, 'chat': {'id': -1003861820801, 'title': 'Xasan Tojiqulov (Pentester )', 'username': 'xasantojiqulov1', 'type': 'channel'}, 'date': 1781542366, 'edit_date': 1781542459, 'audio': {'duration': 239, 'file_name': 'Ota-ona   Bahriddin Zuhriddinov.m4a', 'mime_type': 'audio/m4a', 'title': 'Ota-ona', 'performer': 'Bahriddin Zuhriddinov', 'file_id': 'CQACAgIAAyEFAATmLrWBAANjajZhHbdN0uhXxVJc2UhKO80mhegAAm2xAAIlsYBJdsWTe3OVPtE8BA', 'file_unique_id': 'AgADbbEAAiWxgEk', 'file_size': 3809730}, 'has_protected_content': True}, 'available_reactions': [{'type': 'paid'}, {'type': 'emoji', 'emoji': '🔥'}], 'max_reaction_count': 11, 'accent_color_id': 6, 'has_protected_content': True}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 49, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 170, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\OneDrive\Desktop\kinobot\middlewares.py", line 31, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\OneDrive\Desktop\kinobot\handlers\admin.py", line 280, in add_channel_process
+    await message.answer(
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\bot.py", line 480, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\aiohttp.py", line 178, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: can't parse entities: Unsupported start tag "reactiontypetype.emoji:" at byte offset 267
+2026-06-20 14:45:14,611 - aiogram.event - INFO - Update id=242810991 is not handled. Duration 250 ms by bot id=8964538366
+2026-06-20 14:45:14,611 - aiogram.event - ERROR - Cause exception while process update id=242810991 by bot id=8964538366
+TelegramBadRequest: Telegram server says - Bad Request: can't parse entities: Unsupported start tag "reactiontypetype.emoji:" at byte offset 267
+Traceback (most recent call last):
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 99, in check_response
+    response = response_type.model_validate(json_data, context={"bot": bot})
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pydantic\main.py", line 503, in model_validate
+    return cls.__pydantic_validator__.validate_python(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 4 validation errors for Response[ChatFullInfo]
+result.available_reactions.0.ReactionTypeEmoji.type
+  Input should be <ReactionTypeType.EMOJI: 'emoji'> [type=literal_error, input_value='paid', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/literal_error
+result.available_reactions.0.ReactionTypeEmoji.emoji
+  Field required [type=missing, input_value={'type': 'paid'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+result.available_reactions.0.ReactionTypeCustomEmoji.type
+  Input should be <ReactionTypeType.CUSTOM_EMOJI: 'custom_emoji'> [type=literal_error, input_value='paid', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/literal_error
+result.available_reactions.0.ReactionTypeCustomEmoji.custom_emoji_id
+  Field required [type=missing, input_value={'type': 'paid'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ISHONCH\OneDrive\Desktop\kinobot\handlers\admin.py", line 269, in add_channel_process
+    chat = await bot.get_chat(chat_id=channel_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\bot.py", line 1621, in get_chat
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\bot.py", line 480, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\aiohttp.py", line 178, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 101, in check_response
+    raise ClientDecodeError("Failed to deserialize object", e, json_data)
+aiogram.exceptions.ClientDecodeError: Failed to deserialize object
+Caused from error: pydantic_core._pydantic_core.ValidationError: 4 validation errors for Response[ChatFullInfo]
+result.available_reactions.0.ReactionTypeEmoji.type
+  Input should be <ReactionTypeType.EMOJI: 'emoji'> [type=literal_error, input_value='paid', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/literal_error
+result.available_reactions.0.ReactionTypeEmoji.emoji
+  Field required [type=missing, input_value={'type': 'paid'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+result.available_reactions.0.ReactionTypeCustomEmoji.type
+  Input should be <ReactionTypeType.CUSTOM_EMOJI: 'custom_emoji'> [type=literal_error, input_value='paid', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/literal_error
+result.available_reactions.0.ReactionTypeCustomEmoji.custom_emoji_id
+  Field required [type=missing, input_value={'type': 'paid'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+Content: {'ok': True, 'result': {'id': -1003861820801, 'title': 'Xasan Tojiqulov (Pentester )', 'username': 'xasantojiqulov1', 'type': 'channel', 'active_usernames': ['xasantojiqulov1'], 'description': 'Hobby Kiber xavfsizlik ( Pentester ) 🌓', 'invite_link': 'https://t.me/+zOpBwhz4AWk1ZWFi', 'can_send_gift': True, 'has_visible_history': True, 'can_send_paid_media': True, 'accepted_gift_types': {'unlimited_gifts': True, 'limited_gifts': True, 'unique_gifts': True, 'premium_subscription': True, 'gifts_from_channels': True}, 'photo': {'small_file_id': 'AQADAgADARhrGxQVUEkACAIAA386LEUW____zNldph60d448BA', 'small_file_unique_id': 'AQADARhrGxQVUEkAAQ', 'big_file_id': 'AQADAgADARhrGxQVUEkACAMAA386LEUW____zNldph60d448BA', 'big_file_unique_id': 'AQADARhrGxQVUEkB'}, 'pinned_message': {'message_id': 99, 'sender_chat': {'id': -1003861820801, 'title': 'Xasan Tojiqulov (Pentester )', 'username': 'xasantojiqulov1', 'type': 'channel'}, 'chat': {'id': -1003861820801, 'title': 'Xasan Tojiqulov (Pentester )', 'username': 'xasantojiqulov1', 'type': 'channel'}, 'date': 1781542366, 'edit_date': 1781542459, 'audio': {'duration': 239, 'file_name': 'Ota-ona   Bahriddin Zuhriddinov.m4a', 'mime_type': 'audio/m4a', 'title': 'Ota-ona', 'performer': 'Bahriddin Zuhriddinov', 'file_id': 'CQACAgIAAyEFAATmLrWBAANjajZhHbdN0uhXxVJc2UhKO80mhegAAm2xAAIlsYBJdsWTe3OVPtE8BA', 'file_unique_id': 'AgADbbEAAiWxgEk', 'file_size': 3809730}, 'has_protected_content': True}, 'available_reactions': [{'type': 'paid'}, {'type': 'emoji', 'emoji': '🔥'}], 'max_reaction_count': 11, 'accent_color_id': 6, 'has_protected_content': True}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 49, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 170, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\OneDrive\Desktop\kinobot\middlewares.py", line 31, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\OneDrive\Desktop\kinobot\handlers\admin.py", line 280, in add_channel_process
+    await message.answer(
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\bot.py", line 480, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\aiohttp.py", line 178, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: can't parse entities: Unsupported start tag "reactiontypetype.emoji:" at byte offset 267
+2026-06-20 14:45:20,486 - aiogram.event - INFO - Update id=242810992 is handled. Duration 172 ms by bot id=8964538366
+2026-06-20 14:45:22,828 - aiogram.event - INFO - Update id=242810993 is handled. Duration 187 ms by bot id=8964538366
+2026-06-20 14:45:27,971 - aiogram.event - INFO - Update id=242810994 is not handled. Duration 250 ms by bot id=8964538366
+2026-06-20 14:45:27,971 - aiogram.event - ERROR - Cause exception while process update id=242810994 by bot id=8964538366
+TelegramBadRequest: Telegram server says - Bad Request: can't parse entities: Unsupported start tag "reactiontypetype.emoji:" at byte offset 267
+Traceback (most recent call last):
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 99, in check_response
+    response = response_type.model_validate(json_data, context={"bot": bot})
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pydantic\main.py", line 503, in model_validate
+    return cls.__pydantic_validator__.validate_python(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 4 validation errors for Response[ChatFullInfo]
+result.available_reactions.0.ReactionTypeEmoji.type
+  Input should be <ReactionTypeType.EMOJI: 'emoji'> [type=literal_error, input_value='paid', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/literal_error
+result.available_reactions.0.ReactionTypeEmoji.emoji
+  Field required [type=missing, input_value={'type': 'paid'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+result.available_reactions.0.ReactionTypeCustomEmoji.type
+  Input should be <ReactionTypeType.CUSTOM_EMOJI: 'custom_emoji'> [type=literal_error, input_value='paid', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/literal_error
+result.available_reactions.0.ReactionTypeCustomEmoji.custom_emoji_id
+  Field required [type=missing, input_value={'type': 'paid'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ISHONCH\OneDrive\Desktop\kinobot\handlers\admin.py", line 269, in add_channel_process
+    chat = await bot.get_chat(chat_id=channel_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\bot.py", line 1621, in get_chat
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\bot.py", line 480, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\aiohttp.py", line 178, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 101, in check_response
+    raise ClientDecodeError("Failed to deserialize object", e, json_data)
+aiogram.exceptions.ClientDecodeError: Failed to deserialize object
+Caused from error: pydantic_core._pydantic_core.ValidationError: 4 validation errors for Response[ChatFullInfo]
+result.available_reactions.0.ReactionTypeEmoji.type
+  Input should be <ReactionTypeType.EMOJI: 'emoji'> [type=literal_error, input_value='paid', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/literal_error
+result.available_reactions.0.ReactionTypeEmoji.emoji
+  Field required [type=missing, input_value={'type': 'paid'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+result.available_reactions.0.ReactionTypeCustomEmoji.type
+  Input should be <ReactionTypeType.CUSTOM_EMOJI: 'custom_emoji'> [type=literal_error, input_value='paid', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/literal_error
+result.available_reactions.0.ReactionTypeCustomEmoji.custom_emoji_id
+  Field required [type=missing, input_value={'type': 'paid'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+Content: {'ok': True, 'result': {'id': -1003861820801, 'title': 'Xasan Tojiqulov (Pentester )', 'username': 'xasantojiqulov1', 'type': 'channel', 'active_usernames': ['xasantojiqulov1'], 'description': 'Hobby Kiber xavfsizlik ( Pentester ) 🌓', 'invite_link': 'https://t.me/+zOpBwhz4AWk1ZWFi', 'can_send_gift': True, 'has_visible_history': True, 'can_send_paid_media': True, 'accepted_gift_types': {'unlimited_gifts': True, 'limited_gifts': True, 'unique_gifts': True, 'premium_subscription': True, 'gifts_from_channels': True}, 'photo': {'small_file_id': 'AQADAgADARhrGxQVUEkACAIAA386LEUW____zNldph60d448BA', 'small_file_unique_id': 'AQADARhrGxQVUEkAAQ', 'big_file_id': 'AQADAgADARhrGxQVUEkACAMAA386LEUW____zNldph60d448BA', 'big_file_unique_id': 'AQADARhrGxQVUEkB'}, 'pinned_message': {'message_id': 99, 'sender_chat': {'id': -1003861820801, 'title': 'Xasan Tojiqulov (Pentester )', 'username': 'xasantojiqulov1', 'type': 'channel'}, 'chat': {'id': -1003861820801, 'title': 'Xasan Tojiqulov (Pentester )', 'username': 'xasantojiqulov1', 'type': 'channel'}, 'date': 1781542366, 'edit_date': 1781542459, 'audio': {'duration': 239, 'file_name': 'Ota-ona   Bahriddin Zuhriddinov.m4a', 'mime_type': 'audio/m4a', 'title': 'Ota-ona', 'performer': 'Bahriddin Zuhriddinov', 'file_id': 'CQACAgIAAyEFAATmLrWBAANjajZhHbdN0uhXxVJc2UhKO80mhegAAm2xAAIlsYBJdsWTe3OVPtE8BA', 'file_unique_id': 'AgADbbEAAiWxgEk', 'file_size': 3809730}, 'has_protected_content': True}, 'available_reactions': [{'type': 'paid'}, {'type': 'emoji', 'emoji': '🔥'}], 'max_reaction_count': 11, 'accent_color_id': 6, 'has_protected_content': True}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 49, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 170, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\OneDrive\Desktop\kinobot\middlewares.py", line 31, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\OneDrive\Desktop\kinobot\handlers\admin.py", line 280, in add_channel_process
+    await message.answer(
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\bot.py", line 480, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\aiohttp.py", line 178, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: can't parse entities: Unsupported start tag "reactiontypetype.emoji:" at byte offset 267
+2026-06-20 14:46:51,895 - aiogram.dispatcher - INFO - Polling stopped
+2026-06-20 14:46:52,161 - __main__ - INFO - Bot to'xtatildi.
+2026-06-20 14:46:52,162 - aiogram.dispatcher - INFO - Polling stopped for bot @kinoolami11bot id=8964538366 - 'kinoolami'
+2026-06-20 14:51:38,174 - __main__ - INFO - Ma'lumotlar bazasi ishga tushirilmoqda...
+2026-06-20 14:51:38,180 - __main__ - INFO - Ma'lumotlar bazasi tayyor!
+2026-06-20 14:51:39,560 - __main__ - INFO - Bot ishga tushirildi: @kinoolami11bot
+2026-06-20 14:51:39,562 - __main__ - INFO - Admin ID: 8590726796
+2026-06-20 14:51:39,995 - __main__ - INFO - Polling boshlanyapti...
+2026-06-20 14:51:39,996 - aiogram.dispatcher - INFO - Start polling
+2026-06-20 14:51:40,111 - aiogram.dispatcher - INFO - Run polling for bot @kinoolami11bot id=8964538366 - 'kinoolami'
+2026-06-20 14:51:49,898 - aiogram.event - INFO - Update id=242810995 is handled. Duration 390 ms by bot id=8964538366
+2026-06-20 14:51:52,534 - aiogram.event - INFO - Update id=242810996 is handled. Duration 170 ms by bot id=8964538366
+2026-06-20 14:51:54,700 - aiogram.event - INFO - Update id=242810997 is handled. Duration 202 ms by bot id=8964538366
+2026-06-20 14:52:00,597 - aiogram.event - INFO - Update id=242810998 is not handled. Duration 438 ms by bot id=8964538366
+2026-06-20 14:52:00,598 - aiogram.event - ERROR - Cause exception while process update id=242810998 by bot id=8964538366
+TelegramBadRequest: Telegram server says - Bad Request: can't parse entities: Unsupported start tag "reactiontypetype.emoji:" at byte offset 245
+Traceback (most recent call last):
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 99, in check_response
+    response = response_type.model_validate(json_data, context={"bot": bot})
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pydantic\main.py", line 503, in model_validate
+    return cls.__pydantic_validator__.validate_python(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 4 validation errors for Response[ChatFullInfo]
+result.available_reactions.0.ReactionTypeEmoji.type
+  Input should be <ReactionTypeType.EMOJI: 'emoji'> [type=literal_error, input_value='paid', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/literal_error
+result.available_reactions.0.ReactionTypeEmoji.emoji
+  Field required [type=missing, input_value={'type': 'paid'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+result.available_reactions.0.ReactionTypeCustomEmoji.type
+  Input should be <ReactionTypeType.CUSTOM_EMOJI: 'custom_emoji'> [type=literal_error, input_value='paid', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/literal_error
+result.available_reactions.0.ReactionTypeCustomEmoji.custom_emoji_id
+  Field required [type=missing, input_value={'type': 'paid'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ISHONCH\OneDrive\Desktop\kinobot\handlers\admin.py", line 300, in add_channel_process
+    chat = await bot.get_chat(chat_id=channel_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\bot.py", line 1621, in get_chat
+    return await self(call, request_timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\bot.py", line 480, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\aiohttp.py", line 178, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 101, in check_response
+    raise ClientDecodeError("Failed to deserialize object", e, json_data)
+aiogram.exceptions.ClientDecodeError: Failed to deserialize object
+Caused from error: pydantic_core._pydantic_core.ValidationError: 4 validation errors for Response[ChatFullInfo]
+result.available_reactions.0.ReactionTypeEmoji.type
+  Input should be <ReactionTypeType.EMOJI: 'emoji'> [type=literal_error, input_value='paid', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/literal_error
+result.available_reactions.0.ReactionTypeEmoji.emoji
+  Field required [type=missing, input_value={'type': 'paid'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+result.available_reactions.0.ReactionTypeCustomEmoji.type
+  Input should be <ReactionTypeType.CUSTOM_EMOJI: 'custom_emoji'> [type=literal_error, input_value='paid', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/literal_error
+result.available_reactions.0.ReactionTypeCustomEmoji.custom_emoji_id
+  Field required [type=missing, input_value={'type': 'paid'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+Content: {'ok': True, 'result': {'id': -1003861820801, 'title': 'Xasan Tojiqulov (Pentester )', 'username': 'xasantojiqulov1', 'type': 'channel', 'active_usernames': ['xasantojiqulov1'], 'description': 'Hobby Kiber xavfsizlik ( Pentester ) 🌓', 'invite_link': 'https://t.me/+zOpBwhz4AWk1ZWFi', 'can_send_gift': True, 'has_visible_history': True, 'can_send_paid_media': True, 'accepted_gift_types': {'unlimited_gifts': True, 'limited_gifts': True, 'unique_gifts': True, 'premium_subscription': True, 'gifts_from_channels': True}, 'photo': {'small_file_id': 'AQADAgADARhrGxQVUEkACAIAA386LEUW____zNldph60d448BA', 'small_file_unique_id': 'AQADARhrGxQVUEkAAQ', 'big_file_id': 'AQADAgADARhrGxQVUEkACAMAA386LEUW____zNldph60d448BA', 'big_file_unique_id': 'AQADARhrGxQVUEkB'}, 'pinned_message': {'message_id': 99, 'sender_chat': {'id': -1003861820801, 'title': 'Xasan Tojiqulov (Pentester )', 'username': 'xasantojiqulov1', 'type': 'channel'}, 'chat': {'id': -1003861820801, 'title': 'Xasan Tojiqulov (Pentester )', 'username': 'xasantojiqulov1', 'type': 'channel'}, 'date': 1781542366, 'edit_date': 1781542459, 'audio': {'duration': 239, 'file_name': 'Ota-ona   Bahriddin Zuhriddinov.m4a', 'mime_type': 'audio/m4a', 'title': 'Ota-ona', 'performer': 'Bahriddin Zuhriddinov', 'file_id': 'CQACAgIAAyEFAATmLrWBAANjajZhHbdN0uhXxVJc2UhKO80mhegAAm2xAAIlsYBJdsWTe3OVPtE8BA', 'file_unique_id': 'AgADbbEAAiWxgEk', 'file_size': 3809730}, 'has_protected_content': True}, 'available_reactions': [{'type': 'paid'}, {'type': 'emoji', 'emoji': '🔥'}], 'max_reaction_count': 11, 'accent_color_id': 6, 'has_protected_content': True}}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 49, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\fsm\middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 170, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 142, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 137, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\router.py", line 162, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\OneDrive\Desktop\kinobot\middlewares.py", line 31, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\OneDrive\Desktop\kinobot\handlers\admin.py", line 302, in add_channel_process
+    await message.answer(
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\methods\base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\bot.py", line 480, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\aiohttp.py", line 178, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ISHONCH\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\aiogram\client\session\base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: can't parse entities: Unsupported start tag "reactiontypetype.emoji:" at byte offset 245
+2026-06-20 14:53:35,551 - aiogram.dispatcher - INFO - Polling stopped
+2026-06-20 14:53:35,808 - __main__ - INFO - Bot to'xtatildi.
+2026-06-20 14:53:35,809 - aiogram.dispatcher - INFO - Polling stopped for bot @kinoolami11bot id=8964538366 - 'kinoolami'
+2026-06-20 14:54:28,018 - __main__ - INFO - Ma'lumotlar bazasi ishga tushirilmoqda...
+2026-06-20 14:54:28,023 - __main__ - INFO - Ma'lumotlar bazasi tayyor!
+2026-06-20 14:54:28,836 - __main__ - INFO - Bot ishga tushirildi: @kinoolami11bot
+2026-06-20 14:54:28,836 - __main__ - INFO - Admin ID: 8590726796
+2026-06-20 14:54:29,238 - __main__ - INFO - Polling boshlanyapti...
+2026-06-20 14:54:29,239 - aiogram.dispatcher - INFO - Start polling
+2026-06-20 14:54:29,353 - aiogram.dispatcher - INFO - Run polling for bot @kinoolami11bot id=8964538366 - 'kinoolami'
+2026-06-20 14:54:32,488 - aiogram.event - INFO - Update id=242810999 is handled. Duration 390 ms by bot id=8964538366
+2026-06-20 14:54:34,098 - aiogram.event - INFO - Update id=242811000 is handled. Duration 172 ms by bot id=8964538366
+2026-06-20 14:54:39,219 - aiogram.event - INFO - Update id=242811001 is handled. Duration 1016 ms by bot id=8964538366
+2026-06-20 14:54:48,885 - aiogram.event - INFO - Update id=242811002 is handled. Duration 296 ms by bot id=8964538366
+2026-06-20 14:54:51,756 - aiogram.event - INFO - Update id=242811003 is handled. Duration 280 ms by bot id=8964538366
+2026-06-20 14:54:55,478 - aiogram.event - INFO - Update id=242811004 is handled. Duration 329 ms by bot id=8964538366
+2026-06-20 14:59:15,072 - aiogram.dispatcher - INFO - Polling stopped
+2026-06-20 14:59:15,333 - __main__ - INFO - Bot to'xtatildi.
+2026-06-20 14:59:15,334 - aiogram.dispatcher - INFO - Polling stopped for bot @kinoolami11bot id=8964538366 - 'kinoolami'
+2026-06-20 14:59:21,726 - __main__ - INFO - Ma'lumotlar bazasi ishga tushirilmoqda...
+2026-06-20 14:59:21,731 - __main__ - INFO - Ma'lumotlar bazasi tayyor!
+2026-06-20 14:59:22,686 - __main__ - INFO - Bot ishga tushirildi: @kinoolami11bot
+2026-06-20 14:59:22,687 - __main__ - INFO - Admin ID: 8590726796
+2026-06-20 14:59:23,192 - __main__ - INFO - Polling boshlanyapti...
+2026-06-20 14:59:23,193 - aiogram.dispatcher - INFO - Start polling
+2026-06-20 14:59:23,372 - aiogram.dispatcher - INFO - Run polling for bot @kinoolami11bot id=8964538366 - 'kinoolami'
+2026-06-20 14:59:25,129 - aiogram.event - INFO - Update id=242811005 is handled. Duration 375 ms by bot id=8964538366
+2026-06-20 14:59:27,897 - aiogram.event - INFO - Update id=242811006 is handled. Duration 405 ms by bot id=8964538366
+2026-06-20 14:59:30,916 - aiogram.event - INFO - Update id=242811007 is handled. Duration 250 ms by bot id=8964538366
+2026-06-20 15:00:10,635 - handlers.user - INFO - User 8046783775 subscribed to Xasan Tojiqulov (Pentester ) (-1003861820801), status: ChatMemberStatus.CREATOR
+2026-06-20 15:00:10,770 - aiogram.event - INFO - Update id=242811008 is handled. Duration 500 ms by bot id=8964538366
+2026-06-20 15:00:15,029 - handlers.user - INFO - User 8046783775 subscribed to Xasan Tojiqulov (Pentester ) (-1003861820801), status: ChatMemberStatus.CREATOR
+2026-06-20 15:00:15,801 - aiogram.event - INFO - Update id=242811009 is handled. Duration 922 ms by bot id=8964538366
+2026-06-20 15:00:18,161 - handlers.user - INFO - User 8046783775 subscribed to Xasan Tojiqulov (Pentester ) (-1003861820801), status: ChatMemberStatus.CREATOR
+2026-06-20 15:00:18,333 - aiogram.event - INFO - Update id=242811010 is handled. Duration 327 ms by bot id=8964538366
+2026-06-20 15:02:06,001 - handlers.user - INFO - User 967128766 subscribed to Xasan Tojiqulov (Pentester ) (-1003861820801), status: ChatMemberStatus.MEMBER
+2026-06-20 15:02:06,139 - aiogram.event - INFO - Update id=242811011 is handled. Duration 577 ms by bot id=8964538366
+2026-06-20 15:02:09,520 - handlers.user - INFO - User 967128766 subscribed to Xasan Tojiqulov (Pentester ) (-1003861820801), status: ChatMemberStatus.MEMBER
+2026-06-20 15:02:09,698 - aiogram.event - INFO - Update id=242811012 is handled. Duration 327 ms by bot id=8964538366
+2026-06-20 15:02:43,459 - handlers.user - INFO - User 967128766 not subscribed to Xasan Tojiqulov (Pentester ) (-1003861820801), status: ChatMemberStatus.LEFT
+2026-06-20 15:02:43,596 - aiogram.event - INFO - Update id=242811013 is handled. Duration 609 ms by bot id=8964538366
+2026-06-20 15:02:49,116 - handlers.user - INFO - User 967128766 subscribed to Xasan Tojiqulov (Pentester ) (-1003861820801), status: ChatMemberStatus.MEMBER
+2026-06-20 15:02:49,498 - aiogram.event - INFO - Update id=242811014 is handled. Duration 530 ms by bot id=8964538366
+2026-06-20 15:02:54,499 - handlers.user - INFO - User 967128766 subscribed to Xasan Tojiqulov (Pentester ) (-1003861820801), status: ChatMemberStatus.MEMBER
+2026-06-20 15:02:54,667 - aiogram.event - INFO - Update id=242811015 is handled. Duration 344 ms by bot id=8964538366
