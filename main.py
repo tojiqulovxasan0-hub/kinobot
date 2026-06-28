@@ -329,11 +329,11 @@ async def statistics(message: Message):
     if today_pop:
         text += "\n\n🔥 <b>Bugungi mashhur:</b>\n"
         for title, code, views in today_pop:
-            text += f"  • <code>{code}</code> — {title}: <b>{views}</b>\n"
+            text += f"   • <code>{code}</code> — {title}: <b>{views}</b>\n"
     if all_pop:
         text += "\n\n🏆 <b>Eng mashhur:</b>\n"
         for title, code, views in all_pop:
-            text += f"  • <code>{code}</code> — {title}: <b>{views}</b>\n"
+            text += f"   • <code>{code}</code> — {title}: <b>{views}</b>\n"
     await message.answer(text, parse_mode="HTML", reply_markup=kb.admin_main_menu())
 
 # --- FOYDALANUVCHILAR ---
@@ -540,14 +540,16 @@ async def main():
     bot_info = await bot.get_me()
     logger.info(f"Bot: @{bot_info.username} | Admin: {ADMIN_ID}")
 
-    await bot.set_my_commands([], scope=BotCommandScopeDefault())
-   # TO'G'RILANGAN SHAKLI:
-await bot.set_my_commands(
-    commands=[
-        BotCommand(command="start", description="Botni ishga tushirish"),
-        # boshqa buyruqlar...
-    ]
-) # scope argumentini olib tashlasangiz, hamma uchun ishlaydi va xato bermaydi
+    try:
+        await bot.set_my_commands(
+            commands=[
+                BotCommand(command="start", description="Botni ishga tushirish"),
+                BotCommand(command="admin", description="Admin panel")
+            ],
+            scope=BotCommandScopeDefault()
+        )
+    except Exception as e:
+        logger.error(f"Buyruqlarni o'rnatishda xatolik: {e}")
 
     try:
         await bot.send_message(ADMIN_ID, f"✅ <b>Bot ishga tushdi!</b>\n🤖 @{bot_info.username}")
