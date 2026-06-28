@@ -541,11 +541,13 @@ async def main():
     logger.info(f"Bot: @{bot_info.username} | Admin: {ADMIN_ID}")
 
     await bot.set_my_commands([], scope=BotCommandScopeDefault())
-    await bot.set_my_commands(
-        [BotCommand(command="admin", description="👑 Admin panel"),
-         BotCommand(command="start", description="🚀 Start")],
-        scope=BotCommandScopeChat(chat_id=ADMIN_ID)
-    )
+   # TO'G'RILANGAN SHAKLI:
+await bot.set_my_commands(
+    commands=[
+        BotCommand(command="start", description="Botni ishga tushirish"),
+        # boshqa buyruqlar...
+    ]
+) # scope argumentini olib tashlasangiz, hamma uchun ishlaydi va xato bermaydi
 
     try:
         await bot.send_message(ADMIN_ID, f"✅ <b>Bot ishga tushdi!</b>\n🤖 @{bot_info.username}")
